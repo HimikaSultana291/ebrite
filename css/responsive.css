@@ -1,0 +1,14 @@
+@media(max-width: 991px){
+	body{
+		overflow: auto;
+		height: auto;
+	}
+	.header-area{
+		width: 100%;
+		height: auto;
+	}
+	.content-area{
+		width: 100%;
+		overflow: inherit; /*2 ta scroll bar ashbe na*/
+	}
+}
